@@ -1,0 +1,5 @@
+[ 2025-07-16 20:03:18,499]  4 root - INFO - An exception has occured 
+[ 2025-07-16 20:03:22,118]  148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8. 
+[ 2025-07-16 20:03:22,119]  160 numexpr.utils - INFO - NumExpr defaulting to 8 threads. 
+[ 2025-07-16 20:03:30,763]  28 root - INFO - Data Ingestion started 
+[ 2025-07-16 20:03:30,784]  32 root - INFO - Dataset read 

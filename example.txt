@@ -1,0 +1,11 @@
+## -p means whichever is my working space, the present working dir, venv will be create in that working dir. Create an env at full
+## custom path. Use -p when you want complete control over the location of the environment.
+
+conda create -p venv python==3.12 
+
+
+## -n wherever by default Anaconda has been installed, all virtual environments, multiple packages will get created. All 
+## virtual environments will get created inside those specific folders. Creates environment in ../../Anaconda3/envs/myenv
+## Use -n when you want to manage environments by name
+
+conda create -n venv python==3.12
